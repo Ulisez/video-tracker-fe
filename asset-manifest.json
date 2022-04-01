@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ulisez.github.io/video-tracker-fe/static/css/main.073c9b0a.css",
-    "main.js": "/ulisez.github.io/video-tracker-fe/static/js/main.a6c2163b.js",
-    "static/js/787.6258a5f4.chunk.js": "/ulisez.github.io/video-tracker-fe/static/js/787.6258a5f4.chunk.js",
-    "static/media/logo.svg": "/ulisez.github.io/video-tracker-fe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ulisez.github.io/video-tracker-fe/index.html",
-    "main.073c9b0a.css.map": "/ulisez.github.io/video-tracker-fe/static/css/main.073c9b0a.css.map",
-    "main.a6c2163b.js.map": "/ulisez.github.io/video-tracker-fe/static/js/main.a6c2163b.js.map",
-    "787.6258a5f4.chunk.js.map": "/ulisez.github.io/video-tracker-fe/static/js/787.6258a5f4.chunk.js.map"
+    "main.css": "/video-tracker-fe/static/css/main.073c9b0a.css",
+    "main.js": "/video-tracker-fe/static/js/main.1185a313.js",
+    "static/js/787.6258a5f4.chunk.js": "/video-tracker-fe/static/js/787.6258a5f4.chunk.js",
+    "static/media/logo.svg": "/video-tracker-fe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/video-tracker-fe/index.html",
+    "main.073c9b0a.css.map": "/video-tracker-fe/static/css/main.073c9b0a.css.map",
+    "main.1185a313.js.map": "/video-tracker-fe/static/js/main.1185a313.js.map",
+    "787.6258a5f4.chunk.js.map": "/video-tracker-fe/static/js/787.6258a5f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a6c2163b.js"
+    "static/js/main.1185a313.js"
   ]
 }
